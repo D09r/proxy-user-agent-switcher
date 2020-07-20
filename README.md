@@ -1,2 +1,2 @@
 # Proxy-User-Agent-Switcher
-The Proxy &amp; User-Agent Switcher extension helps to do geo-testing and mobile device-testing of any websites.
+The Proxy & User-Agent Switcher extension helps to do geolocation-testing and mobile device-testing of any websites.
