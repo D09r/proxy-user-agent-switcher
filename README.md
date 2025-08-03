@@ -17,7 +17,7 @@ https://d09r.github.io/proxy-user-agent-switcher/privacy-policy
 #### Become a patron
 Please consider a donation to support the ongoing development of this extension.
 
-https://www.patreon.com/d09r
+https://buymeacoffee.com/d09r
 
 #### Changelog
 Version 3.0 - July 22, 2020
